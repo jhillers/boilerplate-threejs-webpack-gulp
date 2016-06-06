@@ -1,3 +1,7 @@
 # boilerplate-threejs-webpack-gulp#
 ### to Run: ###
-`npm install && gulp`
+### Download dependencies ###
+`npm install`
+### and Run default gulp task ###
+`gulp`
+
